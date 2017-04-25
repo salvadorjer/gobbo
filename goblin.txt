@@ -1,0 +1,6 @@
+en_nam=grunty
+en_htp=15
+en_att=2
+en_spd=3
+en_str=3
+en_res=none
